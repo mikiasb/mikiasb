@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikiasb
 - 👀 I’m interested in Image Processing, Computer Vision and Computer Graphics
 - 🌱 I’m currently learning Image Analysis
-- 💞️ I’m looking to collaborate on Deep learning of Digital Image Processing with a CNN focus
+- 💞️ I’m looking to collaborate on Deep Learning for Digital Image Processing, with a concentration on CNN
 - 📫 How to reach me: mikiasber12@gmail.com
 
 <!---
