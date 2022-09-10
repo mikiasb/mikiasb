@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikiasb
-- 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning VFX and CGI
-- 💞️ I’m looking to collaborate on Deep Learning for VFX, with a concentration on CNN
+- 👀 I’m interested in Audio Proggraming as well as animation and VFX A.I.
+- 🌱 I’m currently learning Music Generation and Computionial Creativity 
+- 💞️ I’m looking to collaborate on Machine Learning for Musical Metacreation, with a concentration on RNN
 - 📫 How to reach me: mikiasber12@gmail.com
 
 <!---
